@@ -216,9 +216,9 @@ SEELAM ANIL REDDY
 
 Aspiring Data Scientist | Python Developer | Data Analyst
 
-GitHub: anilreddy-043
+GitHub: [contact me](https://github.com/anilreddy-043)
 
-LinkedIn: Anil Reddy
+LinkedIn: [contact me](https://www.linkedin.com/in/anil-reddy-seelam/)
 
 ⭐ Support
 
